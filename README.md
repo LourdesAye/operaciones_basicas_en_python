@@ -3,3 +3,6 @@
 - Crear, leer, actualizar y borrar productos.
 - Listar productos disponibles.
 - Identificar productos con bajo stock.
+🎥 Video demostrativo: [Proyecto de Gestión de Inventario en Python](https://youtu.be/eidrmS1F6ME)
+
+
